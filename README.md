@@ -34,9 +34,6 @@ Multi-language developer. I love building things with code.
 
 
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-
-
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -64,4 +61,4 @@ Multi-language developer. I love building things with code.
 
 ![Email](https://img.shields.io/badge/Email-theyazbal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto:theyazbal@gmail.com)
+(mailto:theyazbal@gmail.com)
