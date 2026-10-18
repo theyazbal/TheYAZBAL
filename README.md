@@ -60,7 +60,7 @@ Multi-language developer. I love building things with code.
 ![Discord](https://img.shields.io/badge/Discord-TheYAZBAL-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
-[
+
 
 ![Email](https://img.shields.io/badge/Email-theyazbal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
