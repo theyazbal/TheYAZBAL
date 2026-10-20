@@ -1,4 +1,7 @@
-<!-- Header Banner -->
+<p align="center">
+  <img src="./avatar.jpg" alt="Yasin Avatar" width="180" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">Hey there! 👋 I'm Yasin a.k.a <ins>TheYAZBAL</ins></h1>
 <h3 align="center">A passionate 18-year-old developer who codes and builds things! 🚀</h3>
 
