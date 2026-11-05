@@ -41,7 +41,8 @@ My focus is on creating practical, scalable, and well-structured projects.
 
 📫 Connect With Me
 
-- GitHub: "@TheYAZBAL" (https://github.com/TheYAZBAL)
+- GitHub: "@TheYAZBAL"
+- Telegram: "@TheYAZBAL" https://github.com/TheYAZBAL
 
 ---
 
