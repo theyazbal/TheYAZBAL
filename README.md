@@ -6,21 +6,9 @@
 
 <br><br>
 
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-TheYAZBAL-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/TheYAZBAL)
-[
-
-![Telegram](https://img.shields.io/badge/Telegram-@TheYAZBAL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-
-](https://t.me/TheYAZBAL)
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheYAZBAL&style=for-the-badge&color=2c5364&label=VIEWS)
-
-
+<a href="https://github.com/TheYAZBAL"><img src="https://img.shields.io/badge/GitHub-TheYAZBAL-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://t.me/TheYAZBAL"><img src="https://img.shields.io/badge/Telegram-@TheYAZBAL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<img src="https://komarev.com/ghpvc/?username=TheYAZBAL&style=for-the-badge&color=2c5364&label=VIEWS" alt="Profile views" />
 
 </div>
 
@@ -35,9 +23,7 @@ I'm a **software developer** and **Minecraft server engineer** focused on buildi
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,python,html,java,kotlin,git,github,vscode&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=php,python,html,java,kotlin,git,github,vscode&theme=dark" alt="Tech stack" />
 </div>
 
 <br>
@@ -63,14 +49,9 @@ I'm a **software developer** and **Minecraft server engineer** focused on buildi
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheYAZBAL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYAZBAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheYAZBAL&theme=tokyonight&hide_border=true&background=0d1117" />
-
+  <img src="https://streak-stats.demolab.com?user=TheYAZBAL&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+  <br>
+  <img src="https://img.shields.io/github/followers/TheYAZBAL?style=for-the-badge&logo=github&color=2c5364" alt="Followers" />
 </div>
 
 <br>
@@ -78,18 +59,8 @@ I'm a **software developer** and **Minecraft server engineer** focused on buildi
 ## 🤝 Connect With Me
 
 <div align="center">
-
-[
-
-![GitHub](https://img.shields.io/badge/-@TheYAZBAL-181717?style=flat-square&logo=github&logoColor=white)
-
-](https://github.com/TheYAZBAL)
-[
-
-![Telegram](https://img.shields.io/badge/-@TheYAZBAL-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-
-](https://t.me/TheYAZBAL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
-
+  <a href="https://github.com/TheYAZBAL"><img src="https://img.shields.io/badge/-@TheYAZBAL-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://t.me/TheYAZBAL"><img src="https://img.shields.io/badge/-@TheYAZBAL-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" />
 </div>
