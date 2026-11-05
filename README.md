@@ -12,7 +12,7 @@
 
 ### About Me
 
-من **TheYAZBAL**؛ برنامه‌نویس و توسعه‌دهنده سیستم‌های نرم‌افزاری و سرورهای ماینکرفت. تمرکزم روی ساخت پروژه‌های کاربردی، مقیاس‌پذیر و با ساختار تمیزه. همیشه در حال یادگیری تکنولوژی‌های جدید و پیاده‌سازی ایده‌های مختلف هستم.
+I'm **TheYAZBAL**, a software developer and Minecraft server engineer. I focus on building practical, scalable, and well-structured projects, and I'm always exploring new technologies to bring ideas to life.
 
 ---
 
@@ -26,17 +26,17 @@
 
 ### What I Do
 
-- **Software Development** | توسعه نرم‌افزار و سیستم‌های بک‌اند
-- **Minecraft Server Dev** | راه‌اندازی و بهینه‌سازی سرورهای ماینکرفت
-- **Plugin Development** | توسعه پلاگین‌های اختصاصی
-- **Open Source** | مشارکت و ساخت پروژه‌های متن‌باز
+- **Software Development** | Building backend systems & software
+- **Minecraft Server Dev** | Setting up & optimizing Minecraft server networks
+- **Plugin Development** | Writing custom plugins
+- **Open Source** | Contributing to and building open-source projects
 
 ---
 
 ### Projects & Communities
 
-- **DevStudio** — استودیو و هاب پروژه‌های نرم‌افزاری من
-- **VortexMine** — شبکه سرور ماینکرفت
+- **DevStudio** — My software projects and development hub
+- **VortexMine** — Minecraft server network
 
 ---
 
