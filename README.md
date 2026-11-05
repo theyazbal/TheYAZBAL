@@ -40,17 +40,6 @@ I'm **TheYAZBAL**, a software developer and Minecraft server engineer. I focus o
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheYAZBAL&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYAZBAL&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ### Connect With Me
 
 - **GitHub:** [@TheYAZBAL](https://github.com/TheYAZBAL)
